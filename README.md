@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Khushi!
 
-**Data Analyst Intern| B.Sc. IT Graduate**
+**Data Analyst Intern | B.Sc. IT Graduate**
 
 I'm building my skills in data analytics through hands-on practice and projects. I enjoy exploring datasets, working through data-cleaning challenges, and finding useful patterns in data.
 
