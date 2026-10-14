@@ -1,16 +1,21 @@
-## 👋 Hi, I'm Khushi!
+# 👋 Hi, I'm Khushi!
 
-**Data Analyst Intern | B.Sc. IT Graduate**
+**Aspiring Data Analyst | B.Sc. IT Graduate**
 
-I'm building my skills in data analytics through hands-on practice and projects. I enjoy exploring datasets, working through data-cleaning challenges, and finding useful patterns in data.
+I'm building my skills in data analytics through hands-on practice and projects. I enjoy exploring datasets, working with data in Excel, and finding patterns that can help explain business performance.
 
 ### 🌱 Currently Learning
-- **SQL & Excel** — strengthening my fundamentals through practice
-- **Power BI & Python** — building analytical and visualisation skills
+
+- **Excel & SQL** — strengthening my fundamentals through practice
+- **Power BI & Python** — developing my analytical and visualisation skills
 
 ### 💻 Projects
 
-- **HR Workforce Analytics Dashboard** — an Excel dashboard exploring workforce demographics, employment types, work locations, salaries, and leave patterns.
+- **UPI Transactions Performance Analytics — 2024**  
+  An Excel dashboard exploring UPI transaction volume, transaction value, spending patterns, hourly activity, and fraud-flagged transactions using a synthetic dataset.
 
 ### 📫 Connect
-[LinkedIn](www.linkedin.com/in/khushi-satyaprakash--maurya)
+
+- [LinkedIn](https://www.linkedin.com/in/khushi-satyaprakash--maurya/)
+
+
