@@ -2,7 +2,7 @@
 
 **Aspiring Data Analyst | B.Sc. IT Graduate**
 
-I'm building my skills in data analytics through hands-on practice and projects. I enjoy exploring datasets, working with data in Excel, and finding patterns that can help explain business performance.
+I'm building my skills in data analytics through hands-on practice and projects. I enjoy exploring datasets, working with data, and finding patterns that help explain what's happening in the data.
 
 ### 🌱 Currently Learning
 
@@ -12,7 +12,10 @@ I'm building my skills in data analytics through hands-on practice and projects.
 ### 💻 Projects
 
 - **UPI Transactions Performance Analytics — 2024**  
-  An Excel dashboard exploring UPI transaction volume, transaction value, spending patterns, hourly activity, and fraud-flagged transactions using a synthetic dataset.
+  An Excel dashboard exploring transaction volume, value, spending patterns, hourly activity, and fraud-flagged transactions using a synthetic dataset.
+
+- **Patient Visits Analysis — SQL**  
+  A SQL practice project exploring patient visit records, age groups, diagnosis codes, and procedure codes.
 
 ### 📫 Connect
 
